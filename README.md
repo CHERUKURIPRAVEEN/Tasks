@@ -1,6 +1,6 @@
 # Tasks
 1. Create a GCP Account
-If you don't have one already, go to GCP Console and create a Google Cloud account. You’ll get a free trial with $300 credits.
+If you don't have one already, go to GCP Console and create a Google Cloud account.
 
 After account creation:
 
